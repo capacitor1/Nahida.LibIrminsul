@@ -1,0 +1,11 @@
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\bin\Debug\net8.0\Nahida.LibIrminsul.deps.json
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\bin\Debug\net8.0\Nahida.LibIrminsul.dll
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\bin\Debug\net8.0\Nahida.LibIrminsul.pdb
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.AssemblyInfoInputs.cache
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.AssemblyInfo.cs
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.csproj.CoreCompileInputs.cache
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.dll
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\refint\Nahida.LibIrminsul.dll
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\Nahida.LibIrminsul.pdb
+C:\Users\Lin\Desktop\Nahida.LibIrminsul\obj\Debug\net8.0\ref\Nahida.LibIrminsul.dll
